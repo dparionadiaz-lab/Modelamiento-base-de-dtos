@@ -7,9 +7,13 @@ El Programa Nacional PAIS del Ministerio de Desarrollo e Inclusión Social (MIDI
 
 Actualmente, la información relacionada con los servicios brindados en los Tambos es registrada por diferentes entidades y en diversos formatos, generando dificultades para consolidar datos, realizar seguimiento de atenciones y obtener reportes oportunos para la toma de decisiones.
 
+Las entidades participantes elaboran planes de trabajo y realizan intervenciones en los Tambos, donde brindan diversos servicios a la población. Durante una intervención pueden ofrecerse varios servicios y una misma persona puede recibir uno o más servicios, generándose múltiples atenciones.
+
 Por ello, se propone desarrollar un Sistema de Gestión y Seguimiento de Servicios en Tambos, que permita registrar información sobre los Tambos, gestores institucionales, campañas sociales, entidades participantes, servicios brindados y población atendida.
 
 El sistema permitirá centralizar la información operativa de las intervenciones realizadas en los Tambos, facilitando el monitoreo de actividades, la generación de indicadores y el seguimiento de beneficiarios atendidos en zonas rurales.
+
+
 
 2. Problemática identificada
 
@@ -24,15 +28,15 @@ Inconsistencias en la información remitida por los Tambos.
 
 3. Objetivo del sistema
 
-Implementar un sistema de información que permita:
+La base de datos tiene como finalidad centralizar, organizar y gestionar la información relacionada con las intervenciones multisectoriales realizadas en los Tambos del Programa Nacional PAIS que permitira
 
-Registrar los Tambos operativos.
-Gestionar campañas y actividades multisectoriales.
-Registrar entidades participantes.
+Registrar entidades articuladas.
+Gestionar planes de trabajo.
+Registrar intervenciones realizadas en los Tambos.
+Registrar los servicios brindados.
 Registrar beneficiarios atendidos.
-Controlar los servicios brindados.
-Generar reportes e indicadores de atención.
-Facilitar el seguimiento de intervenciones en zonas rurales.
+Llevar el control de atenciones.
+Generar reportes e indicadores para la toma de decisiones.
 
 4. Alcance del sistema
 
